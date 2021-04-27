@@ -1,0 +1,2 @@
+# smrf
+Simplified MapReduce Framwork
